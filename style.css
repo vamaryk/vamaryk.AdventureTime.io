@@ -665,6 +665,10 @@ header {
   align-items: center;
 }
 
+.btn-container a {
+  text-decoration: none;
+}
+
 .card__btn {
   margin-right: 1em;
 }
