@@ -6,13 +6,13 @@ menu.onclick = () => {
 };
 
 const keywordDictionary = {
-  "Туры путёвки путевки ОАЭ Дубай Турция Каппадокия Италия Венеция Китай Япония Австралия Франция Испания": "https://vamaryk.AdventureTime.io/tours",
-  "Туры путёвки путевки ОАЭ Дубай Турция Каппадокия Италия Венеция о компании Популярные направления Франция Часто посещаемое преимущества компании": "https://vamaryk.AdventureTime.io/",
-  "Регистрация, создать аккаунт": "https://vamaryk.AdventureTime.io/registration",
-  "о компании преимущества компании": "https://vamaryk.AdventureTime.io/aboutUs",
-  "Контакты": "https://vamaryk.AdventureTime.io/contacts",
-  "Китай Япония Австралия Франция Турция Италия Испания ОАЭ": "https://vamaryk.AdventureTime.io/countries",
-  "Новости": "https://vamaryk.AdventureTime.io/news",
+  "Туры путёвки путевки ОАЭ Дубай Турция Каппадокия Италия Венеция Китай Япония Австралия Франция Испания": "https://vamaryk.github.io/vamaryk.AdventureTime.io/tours",
+  "Туры путёвки путевки ОАЭ Дубай Турция Каппадокия Италия Венеция о компании Популярные направления Франция Часто посещаемое преимущества компании": "https://vamaryk.github.io/vamaryk.AdventureTime.io/",
+  "Регистрация, создать аккаунт": "https://vamaryk.github.io/vamaryk.AdventureTime.io/registration",
+  "о компании преимущества компании": "https://vamaryk.github.io/vamaryk.AdventureTime.io/aboutUs",
+  "Контакты": "https://vamaryk.github.io/vamaryk.AdventureTime.io/contacts",
+  "Китай Япония Австралия Франция Турция Италия Испания ОАЭ": "https://vamaryk.github.io/vamaryk.AdventureTime.io/countries",
+  "Новости": "https://vamaryk.github.io/vamaryk.AdventureTime.io/news",
   // ...
 };
 
